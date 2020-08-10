@@ -1,2 +1,9 @@
 *.class
 *.log
+$PRODUCT_WORKSPACE_FILE$
+.gitignore
+codeStyles/
+misc.xml
+modules.xml
+scala_learn.iml
+vcs.xml
